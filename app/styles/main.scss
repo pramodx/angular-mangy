@@ -74,8 +74,9 @@ table {
     margin-top:20px;
     tr {
         th {
-            background-color:#ccc;
+            background-color:#999;
             color:#fff;
+            padding:5px 10px;
         }
         td {
             border-right: 1px solid #e5e5e5;
@@ -83,7 +84,7 @@ table {
             text-align:center;
             padding:2px 5px
         }
-        :first-child {
+        :nth-child(2) {
             text-align: left;
         }
     }

@@ -1,10 +1,10 @@
 'use strict';
 
-angular.module('rentalApp')
-  .controller('rentalController', function($scope, $http){
-  	$http.get('https://api.mongolab.com/api/1/databases/pramodx/collections/rentals/?apiKey=SUNCexY8jmspBkpwUsua0ymB_vVipNNI').
-  		success(function(data){
-  			$scope.movielist = data;
-  		})
-
-  })
+angular.module('rentalapp.controllers.rentals', ['restangular'])
+.controller('rentalController', ['$scope', 'DataService', function($scope, DataService){
+	//console.log(Data);
+	DataService.getRentals().then(function(data){
+		$scope.movielist = data;
+	});
+	//console.log($scope);
+}]);
