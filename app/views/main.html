@@ -1,6 +1,6 @@
 
 
-      <table ng-controller="rentalController">
+      <table>
         <colgroup>
           <col/>
           <col width="50%" align="left"/>
@@ -19,11 +19,11 @@
         </tr>
         <tr ng-model="movielist" ng-repeat="movie in movielist">
           <td>{{$index+1}}</td>
-          <td><a href="{{movie.id}}">{{movie.title}}</a></td>
+          <td><a href="#/detail/{{movie._id.$oid}}">{{movie.title}}</a></td>
           <td>{{movie.year}}</td>
           <td>{{movie.mpaa_rating}}</td>
-          <td><a class="btn btn-success" href="/{{movie.id}}">Edit</a></td>
-          <td><a class="btn btn-danger" href="#">Delete</a></td>
+          <td><a class="btn btn-success" href="#/edit/{{movie._id.$oid}}">Edit</a></td>
+          <td><a class="btn btn-danger" href="#/delete/{{movie._id.$oid}}">Delete</a></td>
         </tr>
       </table>
 

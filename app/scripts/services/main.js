@@ -7,8 +7,22 @@ angular.module('rentalapp.services.rentals',['restangular'])
 	var service = {
 		getRentals : function(){
 			return _messageservice.getList();
+		},
+
+		addRentals: function(data){
+			var newData = data;
+			return _messageservice.post(newData);
+			location.href="/";
+		},
+
+		updateRental: function(data){
+			return data.put();
+		},
+
+		deleteRental: function(data){
+			return data.remove();
 		}
 	};
-	return service
+	return service;
 	
 }]);

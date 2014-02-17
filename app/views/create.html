@@ -1,0 +1,20 @@
+<form id="creationForm" class="clearfix">
+
+<input type="text" class="form-control" placeholder="Title" id="title" ng-model="movie.title" />
+
+<input type="text" class="form-control" placeholder="MPAA Rating" id="mpaa_rating" ng-model="movie.mpaa_rating" value="asdfasf"/>
+
+<input type="text" class="form-control" placeholder="Year" id="year" ng-model="movie.year"/>
+
+
+<input type="text" class="form-control" placeholder="Thumbnail" id="year" ng-model="movie.thumbnail"/>
+
+<input type="text" class="form-control" placeholder="Runtime" id="runtime" ng-model="movie.runtime"/>
+
+<input type="text" class="form-control" placeholder="Synopsis" id="synopsis" ng-model="movie.synopsis"/>
+
+<textarea id="critics_consensus" placeholder="Critics Consensus" class="form-control" ng-model="movie.critics_consensus"></textarea>
+
+<button class="btn btn-primary pull-right" ng-click="save()">Save</button>
+
+</form>
