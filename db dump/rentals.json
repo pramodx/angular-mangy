@@ -1,0 +1,502 @@
+[
+  {
+    "id":9377,
+    "title":"Finding Nemo 3D",
+    "year":2012,
+    "mpaa_rating":"G",
+    "runtime":100,
+    "critics_consensus":"Breathtaking animation, talented vocal work, and a well-written screenplay add up to another Pixar success.",
+    "synopsis":"",
+    "thumbnail":"http://content6.flixster.com/movie/10/84/19/10841916_pro.jpg"
+  },
+  {
+    "id":770675766,
+    "title":"The Hobbit: An Unexpected Journey",
+    "year":2012,
+    "mpaa_rating":"PG-13",
+    "runtime":170,
+    "critics_consensus":"Peter Jackson's return to Middle-earth is an earnest, visually resplendent trip, but the film's deliberate pace robs the material of some of its majesty.",
+    "synopsis":"",
+    "thumbnail":"http://content9.flixster.com/movie/11/17/02/11170263_pro.jpg"
+  },
+  {
+    "id":771253949,
+    "title":"Les Miserables",
+    "year":2012,
+    "mpaa_rating":"PG-13",
+    "runtime":158,
+    "critics_consensus":"Impeccably mounted but occasionally bombastic, Les Miserables largely succeeds thanks to bravura performances from its distinguished cast.",
+    "synopsis":"",
+    "thumbnail":"http://content8.flixster.com/movie/11/17/01/11170178_pro.jpg"
+  },
+  {
+    "id":771245718,
+    "title":"Django Unchained",
+    "year":2012,
+    "mpaa_rating":"R",
+    "runtime":165,
+    "critics_consensus":"Bold, bloody, and stylistically daring, Django Unchained is another incendiary masterpiece from Quentin Tarantino.",
+    "synopsis":"",
+    "thumbnail":"http://content6.flixster.com/movie/11/16/75/11167576_pro.jpg"
+  },
+  {
+    "id":771310572,
+    "title":"Cloud Atlas",
+    "year":2012,
+    "mpaa_rating":"R",
+    "runtime":172,
+    "critics_consensus":"Its sprawling, ambitious blend of thought-provoking narrative and eye-catching visuals will prove too unwieldy for some, but the sheer size and scope of Cloud Atlas are all but impossible to ignore.",
+    "synopsis":"",
+    "thumbnail":"http://content7.flixster.com/movie/11/16/87/11168701_pro.jpg"
+  },
+  {
+    "id":771253886,
+    "title":"Silver Linings Playbook",
+    "year":2012,
+    "mpaa_rating":"R",
+    "runtime":122,
+    "critics_consensus":"Silver Linings Playbook walks a tricky thematic tightrope, but David O. Russell's sensitive direction and some sharp work from a talented cast gives it true balance.",
+    "synopsis":"",
+    "thumbnail":"http://content9.flixster.com/movie/11/17/06/11170611_pro.jpg"
+  },
+  {
+    "id":770682079,
+    "title":"Lincoln",
+    "year":2012,
+    "mpaa_rating":"PG-13",
+    "runtime":149,
+    "critics_consensus":"Daniel Day-Lewis characteristically delivers in this witty, dignified portrait that immerses the audience in its world and entertains even as it informs.",
+    "synopsis":"",
+    "thumbnail":"http://content8.flixster.com/movie/11/16/63/11166394_pro.jpg"
+  },
+  {
+    "id":771225277,
+    "title":"Killing Them Softly",
+    "year":2012,
+    "mpaa_rating":"R",
+    "runtime":97,
+    "critics_consensus":"Killing Them Softly is a darkly comic, visceral thriller that doubles as a cautionary tale on capitalism, whose message is delivered with sledgehammer force.",
+    "synopsis":"",
+    "thumbnail":"http://content7.flixster.com/movie/11/17/04/11170473_pro.jpg"
+  },
+  {
+    "id":771247162,
+    "title":"Texas Chainsaw",
+    "year":2013,
+    "mpaa_rating":"R",
+    "runtime":91,
+    "critics_consensus":"As an ugly and cynical attempt to rebrand Leatherface as horror anti-hero, Texas Chainsaw 3D is a bold move for the franchise.",
+    "synopsis":"",
+    "thumbnail":"http://content7.flixster.com/movie/11/17/13/11171397_pro.jpg"
+  },
+  {
+    "id":771256131,
+    "title":"Gangster Squad",
+    "year":2013,
+    "mpaa_rating":"R",
+    "runtime":110,
+    "critics_consensus":"Though it's stylish and features a talented cast, Gangster Squad suffers from lackluster writing, underdeveloped characters, and an excessive amount of violence.",
+    "synopsis":"",
+    "thumbnail":"http://content8.flixster.com/movie/11/17/03/11170394_pro.jpg"
+  },
+  {
+    "id":771249562,
+    "title":"Zero Dark Thirty",
+    "year":2012,
+    "mpaa_rating":"R",
+    "runtime":157,
+    "critics_consensus":"Gripping, suspenseful, and brilliantly crafted, Zero Dark Thirty dramatizes the hunt for Osama bin Laden with intelligence and an eye for detail.",
+    "synopsis":"",
+    "thumbnail":"http://content8.flixster.com/movie/11/17/04/11170418_pro.jpg"
+  },
+  {
+    "id":771313372,
+    "title":"Mama",
+    "year":2013,
+    "mpaa_rating":"PG-13",
+    "runtime":100,
+    "critics_consensus":"If you're into old-school scares over cheap gore, you'll be able to get over Mama's confusing script and contrived plot devices.",
+    "synopsis":"",
+    "thumbnail":"http://content6.flixster.com/movie/11/17/06/11170616_pro.jpg"
+  },
+  {
+    "id":771316451,
+    "title":"A Haunted House",
+    "year":2013,
+    "mpaa_rating":"R",
+    "runtime":86,
+    "critics_consensus":"undefined",
+    "synopsis":"",
+    "thumbnail":"http://content7.flixster.com/movie/11/17/06/11170617_pro.jpg"
+  },
+  {
+    "id":771225336,
+    "title":"This is 40",
+    "year":2012,
+    "mpaa_rating":"R",
+    "runtime":134,
+    "critics_consensus":"Judd Apatow definitely delivers funny and perceptive scenes in This is 40, even if they are buried in aimless self-indulgence.",
+    "synopsis":"",
+    "thumbnail":"http://content8.flixster.com/movie/11/16/94/11169446_pro.jpg"
+  },
+  {
+    "id":771249559,
+    "title":"Jack Reacher",
+    "year":2012,
+    "mpaa_rating":"PG-13",
+    "runtime":130,
+    "critics_consensus":"Jack Reacher is an above-average crime thriller with a smoothly charismatic performance from Tom Cruise.",
+    "synopsis":"",
+    "thumbnail":"http://content7.flixster.com/movie/11/17/06/11170621_pro.jpg"
+  },
+  {
+    "id":770893918,
+    "title":"Safe Haven",
+    "year":2013,
+    "mpaa_rating":"PG-13",
+    "runtime":115,
+    "critics_consensus":"Schmaltzy, predictable, and melodramatic, Safe Haven also suffers from a ludicrous plot twist, making for a particularly ignominious Nicholas Sparks adaptation.",
+    "synopsis":"",
+    "thumbnail":"http://content7.flixster.com/movie/11/16/77/11167789_pro.jpg"
+  },
+  {
+    "id":771257655,
+    "title":"Parental Guidance",
+    "year":2012,
+    "mpaa_rating":"PG",
+    "runtime":104,
+    "critics_consensus":"Parental Guidance is sweet but milquetoast, an inoffensive trifle that's blandly predictable.",
+    "synopsis":"",
+    "thumbnail":"http://content8.flixster.com/movie/11/17/03/11170342_pro.jpg"
+  },
+  {
+    "id":771305509,
+    "title":"Side Effects",
+    "year":2013,
+    "mpaa_rating":"R",
+    "runtime":106,
+    "critics_consensus":"A smart, clever thriller with plenty of disquieting twists, Side Effects is yet another assured effort from director Steven Soderbergh.",
+    "synopsis":"",
+    "thumbnail":"http://content8.flixster.com/movie/11/17/07/11170750_pro.jpg"
+  },
+  {
+    "id":771254143,
+    "title":"The Guilt Trip",
+    "year":2012,
+    "mpaa_rating":"PG-13",
+    "runtime":96,
+    "critics_consensus":"Seth Rogen and Barbra Streisand have enough chemistry to drive a solidly assembled comedy; unfortunately, The Guilt Trip has a lemon of a script and is perilously low on comedic fuel.",
+    "synopsis":"",
+    "thumbnail":"http://content6.flixster.com/movie/11/17/06/11170620_pro.jpg"
+  },
+  {
+    "id":771312396,
+    "title":"The Impossible",
+    "year":2012,
+    "mpaa_rating":"PG-13",
+    "runtime":113,
+    "critics_consensus":"The screenplay isn't quite as powerful as the direction or the acting, but with such an astonishing real-life story at its center, The Impossible is never less than compelling.",
+    "synopsis":"",
+    "thumbnail":"http://content7.flixster.com/movie/11/17/03/11170393_pro.jpg"
+  },
+  {
+    "id":771269779,
+    "title":"Beautiful Creatures",
+    "year":2013,
+    "mpaa_rating":"PG-13",
+    "runtime":124,
+    "critics_consensus":"Charming romantic leads and esteemed supporting cast aside, Beautiful Creatures is a plodding YA novel adaptation that feels watered down for the Twilight set.",
+    "synopsis":"",
+    "thumbnail":"http://content9.flixster.com/movie/11/17/07/11170795_pro.jpg"
+  },
+  {
+    "id":771251147,
+    "title":"Broken City",
+    "year":2013,
+    "mpaa_rating":"R",
+    "runtime":108,
+    "critics_consensus":"Broken City's thinly sketched, formulaic script offers meager rewards for all but the least demanding noir aficionados.",
+    "synopsis":"",
+    "thumbnail":"http://content8.flixster.com/movie/11/17/06/11170618_pro.jpg"
+  },
+  {
+    "id":771240423,
+    "title":"Parker",
+    "year":2013,
+    "mpaa_rating":"R",
+    "runtime":118,
+    "critics_consensus":"Jason Statham is game as usual, but Parker is a thoroughly generic and convoluted heist movie.",
+    "synopsis":"",
+    "thumbnail":"http://content6.flixster.com/movie/11/17/13/11171324_pro.jpg"
+  },
+  {
+    "id":771249652,
+    "title":"The Last Stand",
+    "year":2013,
+    "mpaa_rating":"R",
+    "runtime":107,
+    "critics_consensus":"There's nothing particularly distinguished about it, but for Schwarzenegger fans The Last Stand provides perfectly undemanding entertainment.",
+    "synopsis":"",
+    "thumbnail":"http://content8.flixster.com/movie/11/17/09/11170918_pro.jpg"
+  },
+  {
+    "id":771303199,
+    "title":"De rouille et d'os (Rust and Bone)",
+    "year":2012,
+    "mpaa_rating":"R",
+    "runtime":122,
+    "critics_consensus":"undefined",
+    "synopsis":"",
+    "thumbnail":"http://content6.flixster.com/movie/11/16/69/11166900_pro.jpg"
+  },
+  {
+    "id":771312085,
+    "title":"The Collection",
+    "year":2012,
+    "mpaa_rating":"R",
+    "runtime":81,
+    "critics_consensus":"The Collection offers more grisly thrills and twisted humor than its predecessor; in other words, fun for genre fans, but unpleasant for anyone else.",
+    "synopsis":"",
+    "thumbnail":"http://content6.flixster.com/movie/11/16/97/11169784_pro.jpg"
+  },
+  {
+    "id":771314362,
+    "title":"Promised Land",
+    "year":2012,
+    "mpaa_rating":"R",
+    "runtime":106,
+    "critics_consensus":"The earnest and well-intentioned Promised Land sports a likable cast, but it also suffers from oversimplified characterizations and a frustrating final act.",
+    "synopsis":"",
+    "thumbnail":"http://content9.flixster.com/movie/11/17/06/11170615_pro.jpg"
+  },
+  {
+    "id":771271497,
+    "title":"A Royal Affair",
+    "year":2012,
+    "mpaa_rating":"R",
+    "runtime":137,
+    "critics_consensus":"A Royal Affair is a lavish and sumptuous costume drama with a juicy story to back it up.",
+    "synopsis":"",
+    "thumbnail":"http://content8.flixster.com/movie/11/16/63/11166350_pro.jpg"
+  },
+  {
+    "id":771269006,
+    "title":"Stand Up Guys",
+    "year":2013,
+    "mpaa_rating":"R",
+    "runtime":94,
+    "critics_consensus":"Stand Up Guys largely wastes its talented cast in a resolutely mediocre comedy hampered by messy direction and a perfunctory script.",
+    "synopsis":"",
+    "thumbnail":"http://content9.flixster.com/movie/11/17/13/11171323_pro.jpg"
+  },
+  {
+    "id":771267753,
+    "title":"To the Arctic",
+    "year":2012,
+    "mpaa_rating":"G",
+    "runtime":40,
+    "critics_consensus":"undefined",
+    "synopsis":"",
+    "thumbnail":"http://content7.flixster.com/movie/11/17/03/11170389_pro.jpg"
+  },
+  {
+    "id":771242341,
+    "title":"Hyde Park on Hudson",
+    "year":2012,
+    "mpaa_rating":"R",
+    "runtime":95,
+    "critics_consensus":"Though bolstered by a thoroughly charming performance by Bill Murray in the central role, Hyde Park on Hudson is an FDR biopic that lets down both its audience and its subject.",
+    "synopsis":"",
+    "thumbnail":"http://content9.flixster.com/movie/11/16/94/11169447_pro.jpg"
+  },
+  {
+    "id":771266282,
+    "title":"Bachelorette",
+    "year":2012,
+    "mpaa_rating":"R",
+    "runtime":91,
+    "critics_consensus":"It has its moments, but Bachelorette ultimately plays it too safe with its trio of unlikable leads, betraying them with a predictably sentimental final act that undermines the bracingly honest humor preceding it.",
+    "synopsis":"",
+    "thumbnail":"http://content8.flixster.com/movie/11/16/61/11166114_pro.jpg"
+  },
+  {
+    "id":771323314,
+    "title":"The Haunting in Connecticut 2: Ghosts of Georgia",
+    "year":2013,
+    "mpaa_rating":"R",
+    "runtime":100,
+    "critics_consensus":"undefined",
+    "synopsis":"",
+    "thumbnail":"http://content6.flixster.com/movie/11/17/03/11170392_pro.jpg"
+  },
+  {
+    "id":771252631,
+    "title":"The Sorcerer and the White Snake",
+    "year":2013,
+    "mpaa_rating":"PG-13",
+    "runtime":99,
+    "critics_consensus":"undefined",
+    "synopsis":"",
+    "thumbnail":"http://content7.flixster.com/movie/11/16/83/11168317_pro.jpg"
+  },
+  {
+    "id":771229019,
+    "title":"Wuthering Heights",
+    "year":2012,
+    "mpaa_rating":"Unrated",
+    "runtime":128,
+    "critics_consensus":"Director Andrea Arnold's gritty, naturalistic re-imagining of the Emily Bronte classic stays true to the book's spirit while utilizing an unconventional approach to explore the romantic yearning at the heart of the story.",
+    "synopsis":"",
+    "thumbnail":"http://content6.flixster.com/movie/11/16/69/11166968_pro.jpg"
+  },
+  {
+    "id":771269389,
+    "title":"The ABCs of Death",
+    "year":2012,
+    "mpaa_rating":"R",
+    "runtime":129,
+    "critics_consensus":"As is often the case with anthology films, The ABCs of Death is wildly uneven, with several legitimately scary entries and a bunch more that miss the mark.",
+    "synopsis":"",
+    "thumbnail":"http://content6.flixster.com/movie/11/16/42/11164272_pro.jpg"
+  },
+  {
+    "id":771306408,
+    "title":"Hitler's Children",
+    "year":2012,
+    "mpaa_rating":"Unrated",
+    "runtime":80,
+    "critics_consensus":"undefined",
+    "synopsis":"",
+    "thumbnail":"http://content9.flixster.com/movie/11/16/71/11167119_pro.jpg"
+  },
+  {
+    "id":771256250,
+    "title":"John Dies at the End",
+    "year":2013,
+    "mpaa_rating":"R",
+    "runtime":99,
+    "critics_consensus":"Some will find the darkly funny, genre-bending incoherence of John Dies at the End charming; some will feel its zany antics and gore lead to an unsatisfying payoff.",
+    "synopsis":"",
+    "thumbnail":"http://content7.flixster.com/movie/11/16/71/11167149_pro.jpg"
+  },
+  {
+    "id":771307293,
+    "title":"The Central Park Five",
+    "year":2012,
+    "mpaa_rating":"Unrated",
+    "runtime":120,
+    "critics_consensus":"undefined",
+    "synopsis":"",
+    "thumbnail":"http://content7.flixster.com/movie/11/16/74/11167457_pro.jpg"
+  },
+  {
+    "id":771242451,
+    "title":"Dragon",
+    "year":2012,
+    "mpaa_rating":"R",
+    "runtime":98,
+    "critics_consensus":"undefined",
+    "synopsis":"",
+    "thumbnail":"http://content9.flixster.com/movie/11/16/73/11167303_pro.jpg"
+  },
+  {
+    "id":771271247,
+    "title":"Struck by Lightning",
+    "year":2012,
+    "mpaa_rating":"Unrated",
+    "runtime":84,
+    "critics_consensus":"undefined",
+    "synopsis":"",
+    "thumbnail":"http://content7.flixster.com/movie/11/16/87/11168777_pro.jpg"
+  },
+  {
+    "id":771311824,
+    "title":"Bad Kids Go to Hell",
+    "year":2012,
+    "mpaa_rating":"R",
+    "runtime":91,
+    "critics_consensus":"undefined",
+    "synopsis":"",
+    "thumbnail":"http://content9.flixster.com/movie/11/16/72/11167299_pro.jpg"
+  },
+  {
+    "id":771322544,
+    "title":"Upstream Color",
+    "year":2013,
+    "mpaa_rating":"Unrated",
+    "runtime":96,
+    "critics_consensus":"As technically brilliant as it is narratively abstract, Upstream Color represents experimental American cinema at its finest -- and reaffirms Shane Carruth as a talent to watch.",
+    "synopsis":"",
+    "thumbnail":"http://content6.flixster.com/movie/11/16/78/11167896_pro.jpg"
+  },
+  {
+    "id":771313869,
+    "title":"The Other Son",
+    "year":2012,
+    "mpaa_rating":"PG-13",
+    "runtime":105,
+    "critics_consensus":"undefined",
+    "synopsis":"",
+    "thumbnail":"http://content7.flixster.com/movie/11/16/65/11166521_pro.jpg"
+  },
+  {
+    "id":771303984,
+    "title":"The Sweeney",
+    "year":2013,
+    "mpaa_rating":"R",
+    "runtime":112,
+    "critics_consensus":"Ray Winstone exudes tough-guy bravado, but this cop thriller otherwise feels thoroughly generic.",
+    "synopsis":"",
+    "thumbnail":"http://content9.flixster.com/movie/11/16/96/11169663_pro.jpg"
+  },
+  {
+    "id":771252707,
+    "title":"The Oranges",
+    "year":2012,
+    "mpaa_rating":"R",
+    "runtime":92,
+    "critics_consensus":"Despite the efforts of its accomplished cast, The Oranges suffers from a mediocre script that fails to deliver well-rounded characters, dramatic tension, or sufficient laughs.",
+    "synopsis":"",
+    "thumbnail":"http://content6.flixster.com/movie/11/17/11/11171116_pro.jpg"
+  },
+  {
+    "id":771304313,
+    "title":"Any Day Now",
+    "year":2012,
+    "mpaa_rating":"R",
+    "runtime":97,
+    "critics_consensus":"undefined",
+    "synopsis":"",
+    "thumbnail":"http://content8.flixster.com/movie/11/16/75/11167534_pro.jpg"
+  },
+  {
+    "id":771234642,
+    "title":"A Monster in Paris",
+    "year":2011,
+    "mpaa_rating":"PG",
+    "runtime":89,
+    "critics_consensus":"undefined",
+    "synopsis":"",
+    "thumbnail":"http://content8.flixster.com/movie/11/15/93/11159334_pro.jpg"
+  },
+  {
+    "id":771225039,
+    "title":"The Details",
+    "year":2012,
+    "mpaa_rating":"R",
+    "runtime":91,
+    "critics_consensus":"undefined",
+    "synopsis":"",
+    "thumbnail":"http://content6.flixster.com/movie/11/16/71/11167100_pro.jpg"
+  },
+  {
+    "id":771316890,
+    "title":"A Glimpse Inside the Mind of Charles Swan III",
+    "year":2013,
+    "mpaa_rating":"R",
+    "runtime":86,
+    "critics_consensus":"undefined",
+    "synopsis":"",
+    "thumbnail":"http://content7.flixster.com/movie/11/16/87/11168725_pro.jpg"
+  }
+]
